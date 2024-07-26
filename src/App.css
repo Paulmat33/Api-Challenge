@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.post {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+  outline:none;
+}
+div > input{
+  outline:none;
+}
+
+.comments {
+  margin-top: 10px;
+}
+
+.pagination button {
+  margin: 5px;
+}
+.comment-display{
+
+  display:flex;
+  flex-direction: row;
+}
